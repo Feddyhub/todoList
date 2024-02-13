@@ -1,7 +1,7 @@
 # todoList
 Yapilacaklarlar Listesi Programi
 
-##To Do List yaptim.
+## To Do List yaptim.
 
 Yazip silebildigin , Priority olanlari "ACIL" butonuna tiklayip kirmizi ve buyuk harflerle yazdiran bir program
 
